@@ -29,7 +29,7 @@ https://dotnet.microsoft.com/download
  * AMD Polaris 系列：2.2 - 2.8 图/秒
  * AMD Vega 系列：4.5 - 5.1 图/秒
  
-产品特征：
+## 产品特征
  * 多平台（可运行于 Linux & Windows)
  * API自定义监控
  * 监控多台机器的免费仪表盘 （适用于挖矿农场 - https://github.com/mozkomor/GrinPro-Dashboard）
