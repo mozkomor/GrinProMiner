@@ -1,5 +1,7 @@
 # GrinPro Miner 2.1
 
+**Update: GrinPro miner will not be updated for Cuckarood29 GRIN 2019/7 hardfork, please switch to new open-source GrinGoldMiner 3.**
+
 High performance professional Grin C29 miner. Manage and monitor mining of Grin cryptocurrency. Our miner does not produce any invalid solutions and is known for its stability.
 
 Fastest available miner for 8GB AMD cards:
